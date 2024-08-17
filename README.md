@@ -1,1 +1,1 @@
-# Data-Visualization-Python
+Data visulaization projects implemented in python.
